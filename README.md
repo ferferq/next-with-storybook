@@ -9,7 +9,7 @@
    
 2. Entre na pasta webStore
     ```sh
-   cd webStore
+   cd next-with-storybook
    ```
 
 3. instale os pacotes necessários:
